@@ -1,0 +1,4 @@
+#Sat Aug 06 16:47:36 EET 2022
+base.0=/Users/macbookair/flutterme/ecommerce/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
